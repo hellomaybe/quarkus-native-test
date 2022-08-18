@@ -1,0 +1,1 @@
+java -agentlib:native-image-agent=config-output-dir=/home/ymit/quarkus-native-test/src/main/resources/META-INF/native-image -jar /home/ymit/quarkus-native-test/target/native-test-1.0.0.RELEASE-native-image-source-jar/native-test-1.0.0.RELEASE-runner.jar
